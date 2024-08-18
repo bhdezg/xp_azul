@@ -7,6 +7,8 @@ This Python script retrieves folder and file data from a the Expediente Azul API
 3. Cleans Data: Processes and cleans the retrieved data.
 4.Uploads Data: Inserts the cleaned data into Google Sheets.
 
+Expediente Azul is a Mexican startup that offers datarooms accessible via a URL to request specific documents to an user.
+
 ## Setup
 Google Sheets Credentials:
 
