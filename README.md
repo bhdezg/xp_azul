@@ -7,7 +7,7 @@ This Python script retrieves folder and file data from a the Expediente Azul API
 3. Cleans Data: Processes and cleans the retrieved data.
 4.Uploads Data: Inserts the cleaned data into Google Sheets.
 
-##Setup
+## Setup
 Google Sheets Credentials:
 
 Obtain a [service account key file](https://developers.google.com/workspace/guides/create-credentials?hl=en) from the Google Cloud Console.
