@@ -14,13 +14,13 @@ Obtain a [service account key file](https://developers.google.com/workspace/guid
 Save the key file as gs_cred.json.
 
 Update Script:
-Replace YOUR_TOKEN with your actual API token.
-Replace YOUR_BOOK with your Google Sheets document ID.
-Update the gs_cred dictionary with your Google service account credentials.
+- Replace YOUR_TOKEN with your actual API token.
+- Replace YOUR_BOOK with your Google Sheets document ID.
+- Update the gs_cred dictionary with your Google service account credentials.
 
 
 ## Requirements
 
 1. Python 3.x installed on your system.
-2. A compatible SQL database system (e.g., MySQL).
+2. A service account key file
 3. An account in https://xpazul.com/financiera/
